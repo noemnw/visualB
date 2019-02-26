@@ -7,8 +7,8 @@ Project yg dibuat :
 
 Anggota : 
 
-Imanuel Nauw
-Muhammad Amri Quilo
-Iin indriyani
-Suharni
-Riska
+Imanuel Nauw,
+Muhammad Amri Quilo,
+Iin indriyani,
+Suharni,
+Riska,
